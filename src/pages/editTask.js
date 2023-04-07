@@ -62,10 +62,11 @@ export default function EditTask() {
           </button>
           {edited && <p class="text-success">edit has been successed</p>}
         </div>
-      </form>
-      <Link to={"/"} class="btn btn-secondary row justify-content-md-center">
+           <Link to={"/"} class="btn btn-secondary row justify-content-md-center">
         Go to the home page
       </Link>
+      </form>
+      
     </div>
   );
 }
