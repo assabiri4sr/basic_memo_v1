@@ -1,3 +1,9 @@
+# my first basic fullstack  web app
+I created this full stack web app to apply all my skills from the frontend and the backend 
+I hope you like it
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
